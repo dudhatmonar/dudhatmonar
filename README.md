@@ -76,7 +76,7 @@
 <h3>🧠 Problem Solving</h3>
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/dudhatmonar?ext=heatmap" width="100%" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Monar111?ext=heatmap" width="100%" alt="LeetCode Stats" />
 </p>
 
 <hr>
